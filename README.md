@@ -24,7 +24,7 @@ I also pulled data from the US EPA Air Quality System API to generate the AQI da
 
 You will also find CSV files in this repository that start with "Detailed_Statistics_Arrivals". These are 11 different CSV files that were pulled from the Department of Transportation Statistics' [page](https://www.transtats.bts.gov/ONTIME/Arrivals.aspx) on arrival delays for individual flights. The reason for the amount of files is due to the the nature of the filter on their webpage. We can select the destination airport (in this case, Idaho Falls Regional) but it forces us to filter by airline, so I had to pull individual data for each airline.
 
-There is also an XLSX file called [Passengers_11_15_2023 8_08_43 PM.xlsx](Passengers_11_15_2023 8_08_43 PM.xlsx) which houses data on the monthly number of passengers into Idaho Falls since October 2002. This data was pulled from the BTS website as well, and you can find this filter at the following [link](https://www.transtats.bts.gov/Data_Elements.aspx?Qn6n=F). This specific data was created by setting the destination airport to Idaho Falls Regional.
+There is also an XLSX file called [Passengers_11_15_2023 8_08_43 PM.xlsx]("Passengers_11_15_2023 8_08_43 PM.xlsx") which houses data on the monthly number of passengers into Idaho Falls since October 2002. This data was pulled from the BTS website as well, and you can find this filter at the following [link](https://www.transtats.bts.gov/Data_Elements.aspx?Qn6n=F). This specific data was created by setting the destination airport to Idaho Falls Regional.
 
 ## Models Used
 
